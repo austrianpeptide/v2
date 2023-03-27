@@ -53,9 +53,10 @@ Further information to our meetings can be found in the [EPS newsletters](https:
 {% capture container_registration %}
 <!-- MAIN SECTION -->
 ## Registration
-Ready to join us at the symposium? Click the button below to register:
+Registration is currently closed.
+<!-- Ready to join us at the symposium? Click the button below to register: -->
 
-[Register Now](/registration)
+<!-- [Register Now](/registration) -->
 <!-- END MAIN SECTION -->
 {% endcapture %}
 
