@@ -1,6 +1,6 @@
 ---
+title: Scientific Conference
 layout: conference
-title: "Scientific Conference"
 ---
 
 {% capture container_main %}

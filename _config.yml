@@ -1,9 +1,15 @@
+---
 title: Austrian Peptide Symposium Website
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: hello@mederka.dev
-description: >-
-  Austrian Peptide Symposium Website
-
-# Build settings
+description: Austrian Peptide Symposium Website
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
