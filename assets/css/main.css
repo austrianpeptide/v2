@@ -1,0 +1,215 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header and Navigation */
+header {
+  background-color: #3f51b5;
+  padding: 1rem 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main content sections */
+main {
+  padding: 2rem;
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  margin-bottom: 3rem;
+  padding: 2rem;
+  width: 100%;
+  max-width: 800px;
+}
+
+h1, h2, h3 {
+    color: #3f51b5;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+/* About section */
+#home {
+  /* background: linear-gradient(to right, rgba(250, 250, 250, 0.7), rgba(240, 240, 240, 0.85)), url(/assets/images/vienna-oper.jpg); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 3rem;
+  /* color: #fff; /* Adjust text color for better readability */ */
+}
+
+/* Registration section */
+#registration a {
+    display: inline-block;
+    background-color: #3f51b5;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+#registration a:hover {
+    background-color: #283593;
+}
+
+/* Footer section */
+footer {
+    background-color: #f5f5f5;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+footer a {
+    color: #3f51b5;
+    text-decoration: none;
+    font-size: 1.1rem;
+    margin: 0 0.5rem;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Speakers section */
+#speaker-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.speaker {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.speaker img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.speaker-card {
+  background-color: #ffffff;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 160px;
+}
+
+.speaker-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+/* Sponsor section */
+
+#sponsor-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.sponsor-card {
+  padding: 1rem;
+  width: 200px;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.awards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.winner-container {
+  flex: 1;
+  margin-right: 2rem;
+  margin-top: 3rem;
+  max-width: 700px
+}
+
+#winner-picture {
+  overflow: hidden;
+  height: 11em;
+  width: 10em;
+}
+
+.winn
+
+.previous-winners {
+  flex: 1;
+}
+
+#award-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.award-logo {
+  height: 100px;
+  overflow:
+}
+
+.award-logo img {
+  height: 100%;
+  width: 100%;
+}

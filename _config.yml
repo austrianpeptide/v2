@@ -1,0 +1,9 @@
+title: Austrian Peptide Symposium Website
+email: hello@mederka.dev
+description: >-
+  Austrian Peptide Symposium Website
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

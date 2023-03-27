@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% if page.title == "Bachem Award" %}
+  <script>
+   window.awardWinnersData = {{ site.data.award_winners | jsonify }};
+   window.imagePath = '{{ "/assets/images/award_winners/" | relative_url }}';
+  </script>
+  <script src="{{ '/assets/js/awards.js' | relative_url }}"></script>
+  {% endif %}
+</head>
+
+<body>
+  <header>
+    <nav>
+      <!-- TODO: FIX THESE -->
+      <a href="/">Home</a>
+      <a href="/#speakers">Speakers</a>
+      <a href="/#information">Information</a>
+      <a href="/#registration">Registration</a>
+      <a href="/bachem_award">Bachem Award</a>
+      <a href="/#contact">Contact</a>
+    </nav>
+
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+---
+layout: conference
+title: "Bachem Award"
+---
+<div id="award-header">
+	<div class="award-logo">
+	  <img src="assets/images/atpsLogo.png">
+	</div>
+	<div class="award-logo">
+	  <img src="assets/images/sponsors/bachem.png">
+	</div>
+</div>
+<section class="awards">
+  <h2>Bachem Award</h2>
+The 11th AtPS will see another Bachem Award presentation for early career scientists (postdocs or junior group leaders) who have made outstanding contributions to the chemistry and/or biology of peptides in the three years preceding the date of selection. For details, see here. See last years winners.
+
+  <div class="winner-container">
+    {% assign latest_winner = site.data.award_winners | first %}
+    <div id="winner-picture">
+      <img src="{{ '/assets/images/award_winners/' | append: latest_winner.winner_photo | relative_url }}" alt="{{ latest_winner.winner_name }}">
+    </div>
+    <h3>{{ latest_winner.winner_name }} ({{ latest_winner.year }})</h3>
+    <p>{{ latest_winner.description }}</p>
+  </div>
+
+  <div class="previous-winners">
+    <h3>List of Winners</h3>
+    <ul>
+      {% for winner in site.data.award_winners %}
+        <li><a href="#">{{ winner.winner_name }} ({{ winner.year }})</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
