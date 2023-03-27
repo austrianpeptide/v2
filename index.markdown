@@ -1,5 +1,5 @@
 ---
-title: Scientific Conference
+title: Austrian Peptide Symposium
 layout: conference
 ---
 
