@@ -79,6 +79,11 @@ p {
   /* color: #fff; /* Adjust text color for better readability */ */
 }
 
+#information img {
+  max-width: 600px;
+  padding: 1rem;
+}
+
 /* Registration section */
 #registration a {
     display: inline-block;
@@ -191,8 +196,6 @@ img {
   height: 11em;
   width: 10em;
 }
-
-.winn
 
 .previous-winners {
   flex: 1;
