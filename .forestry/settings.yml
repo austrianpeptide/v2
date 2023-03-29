@@ -16,11 +16,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: assets/images/award_winners
-  label: Bachem award winner photos
-  create: all
-  match: "**/*"
-- type: directory
   path: assets/images/speakers
   label: Speaker pictures
   create: all
