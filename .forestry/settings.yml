@@ -5,13 +5,28 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _data
-  label: Data
+  path: assets/images/award_winners
+  label: Bachem award winner photos
   create: all
   match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "**/*"
+- type: directory
+  path: assets/images/speakers
+  label: Speaker pictures
+  create: all
+  match: "**/*"
+- type: directory
+  path: assets/images/sponsors
+  label: Sponsor logos
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
