@@ -15,16 +15,6 @@ sections:
   label: Data
   create: all
   match: "**/*"
-- type: directory
-  path: assets/images/speakers
-  label: Speaker pictures
-  create: all
-  match: "**/*"
-- type: directory
-  path: assets/images/sponsors
-  label: Sponsor logos
-  create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
