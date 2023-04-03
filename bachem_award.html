@@ -11,12 +11,13 @@ layout: conference
 	  <img src="assets/images/sponsors/bachem.png">
 	</div>
 </div>
-<section class="awards">
+<div>
   <h2>Bachem Award</h2>
-The 11th AtPS will see another Bachem Award presentation for early career scientists (postdocs or junior group leaders) who have made outstanding contributions to the chemistry and/or biology of peptides in the three years preceding the date of selection. For details, see here. See last years winners.
-
+  {{ site.data.content.award_description }}
+</div>
+<section class="awards">
   <div class="winner-container">
-    {% assign latest_winner = site.data.award_winners | first %}
+    {% assign latest_winner = site.data.content.award_winners | first %}
     <div id="winner-picture">
       <img src="{{ '/assets/images/award_winners/' | append: latest_winner.winner_photo | relative_url }}" alt="{{ latest_winner.winner_name }}">
     </div>
@@ -27,7 +28,7 @@ The 11th AtPS will see another Bachem Award presentation for early career scient
   <div class="previous-winners">
     <h3>List of Winners</h3>
     <ul>
-      {% for winner in site.data.award_winners %}
+      {% for winner in site.data.content.award_winners %}
         <li><a href="#">{{ winner.winner_name }} ({{ winner.year }})</a></li>
       {% endfor %}
     </ul>

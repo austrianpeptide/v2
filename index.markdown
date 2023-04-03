@@ -62,20 +62,20 @@ Registration is currently closed.
 
 
 <div class="container container-main" id="home">
-  {{ container_main | markdownify }}
+  {{ site.data.content.page.main | markdownify }}
 </div>
 
 <div class="container container-speakers" id="speakers">
   <h2>Speakers</h2>
   <div id="speaker-list">
-  {% for speaker in site.data.speakers %}
+  {% for speaker in site.data.content.speakers %}
     {% include speaker-card.html speaker=speaker %}
   {% endfor %}
   </div>
 </div>
 
 <div class="container container-info" id="information">
-  {{ container_info | markdownify }}
+  {{ site.data.content.page.information | markdownify }}
 </div>
 
 <div class="container container-registration" id="registration">
@@ -85,18 +85,12 @@ Registration is currently closed.
 <div class="container container-sponsors">
   <h2>Sponsors</h2>
   <div id="sponsor-list">
-  {% for sponsor in site.data.sponsors %}
+  {% for sponsor in site.data.content.sponsors %}
     {% include sponsor-card.html sponsor=sponsor %}
   {% endfor %}
   </div>
 </div>
 
 <div class="container container-contact" id="contact">
-  <h2>Contact</h2>
-  <div>
-    For more information and involvement in future meetings please contact: Dr. Christian Gruber
-  </div>
-  <div>
-    Tel.: +43-(0)1-40160-31390, Email: christian.w.gruber@meduniwien.ac.at
-  </div>
+	{{ site.data.content.page.contact | markdownify }}
 </div>
