@@ -8,7 +8,7 @@ layout: conference
 	  <img src="assets/images/atpsLogo.png">
 	</div>
 	<div class="award-logo">
-	  <img src="assets/images/sponsors/bachem.png">
+	  <img src="uploads/bachem.png">
 	</div>
 </div>
 <div>
@@ -19,7 +19,7 @@ layout: conference
   <div class="winner-container">
     {% assign latest_winner = site.data.content.award_winners | first %}
     <div id="winner-picture">
-      <img src="{{ '/assets/images/award_winners/' | append: latest_winner.winner_photo | relative_url }}" alt="{{ latest_winner.winner_name }}">
+      <img src="{{ '/uploads/' | append: latest_winner.winner_photo | relative_url }}" alt="{{ latest_winner.winner_name }}">
     </div>
     <h3>{{ latest_winner.winner_name }} ({{ latest_winner.year }})</h3>
     <p>{{ latest_winner.description }}</p>

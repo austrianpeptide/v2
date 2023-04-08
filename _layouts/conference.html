@@ -11,7 +11,7 @@
   <script>
    /* TODO: MOVE THIS TO A DEDICATED CONTAINER */
    window.awardWinnersData = {{ site.data.content.award_winners | jsonify }};
-   window.imagePath = '{{ "/assets/images/award_winners/" | relative_url }}';
+   window.imagePath = '{{ "/uploads/" | relative_url }}';
   </script>
   <script src="{{ '/assets/js/awards.js' | relative_url }}"></script>
   {% endif %}
