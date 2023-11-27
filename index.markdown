@@ -6,9 +6,7 @@ layout: conference
 {% capture container_registration %}
 <!-- MAIN SECTION -->
 ## Registration
-Ready to join us at the symposium? Click the button below to register:
-
-[Register Now](https://myconference.dev/atps2023register.html)
+Registration is now closed.
 <!-- END MAIN SECTION -->
 {% endcapture %}
 
