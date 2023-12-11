@@ -1,4 +1,26 @@
 award_winners:
+- affiliation: Max Planck Institute of Molecular Physiology, Dortmund, Germany
+  description: "Dr. Peter \u2018t Hart is a group leader at the Chemical Genomics\
+    \ Centre at the Max Planck Institute of Molecular Physiology in Dortmund. In his\
+    \ research he uses macrocyclic peptides to inhibit challenging targets such as\
+    \ protein-protein interaction with a current focus on protein-RNA interactions.\
+    \ His team uses both structure-based design as well as genetically encoded library\
+    \ screening techniques to identify such inhibitors and various biochemical and\
+    \ cellular techniques to investigate their effects. Furthermore, the group also\
+    \ works on developing new late-stage functionalization techniques for the introduction\
+    \ of unnatural amino acids during solid phase peptide synthesis as well as methods\
+    \ to improve peptide cell permeability. He got his bachelor's degree from the\
+    \ Rotterdam University of Applied Science in chemistry and his Master\u2019s degree\
+    \ from Utrecht University in Pharmacy. For his PhD he stayed at Utrecht University\
+    \ in the Medicinal Chemistry and Chemical Biology group with prof. dr. Nathaniel\
+    \ Martin working the identification of antibiotic bicyclic peptides using phage\
+    \ display. Then he moved to the Max Planck Institute of Molecular Physiology for\
+    \ a postdoctoral position as a Humboldt Research Fellow in the group of prof.\
+    \ dr. Herbert Waldmann. Here he worked on the structure-based design of cyclic\
+    \ peptide inhibitors of epigenetic regulator proteins. "
+  winner_name: "Peter \u2018t Hart"
+  winner_photo: Report_AtPS2011-2017.pdf
+  year: 2023
 - affiliation: University of Freiburg
   description: "Charalampos (Babis) Pappas is a junior group leader the Cluster of\
     \ Excellence Living, Adaptive and Energy-autonomous Materials Systems (livMatS)\
@@ -13,7 +35,7 @@ award_winners:
     \ on dynamic folded macromolecules."
   winner_name: Charalampos (Babis) Pappas
   winner_photo: pappas.jpg
-  year: 2023
+  year: 2022
 - affiliation: University of Zurich
   description: "Nina Hartrampf is an Assistant Professor (tenure track) for \u201C\
     Next Generation Synthesis\u201D at the University of Zurich. Her group\u2019s\
@@ -29,7 +51,7 @@ award_winners:
     \ automated flow chemistry."
   winner_name: Nina Hartrampf
   winner_photo: NinaHartrampf_web_2.jpg
-  year: 2022
+  year: 2021
 page:
   contact: '## Contact
 
