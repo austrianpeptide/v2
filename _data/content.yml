@@ -73,7 +73,7 @@ page:
     \ The award is sponsored by the Bachem AG. \n\n[Click Here For More Information](/uploads/Announcement_AtPSAward_2023.pdf)\n\
     \n\n### Symposium topics\n- Peptide Chemistry and Synthesis\n- Peptide Drug Development\
     \ and Delivery\n- Peptide Structural Biology\n- Peptide Pharmacology\n\n\n###\
-    \ Location\nThe 12th Austrian Peptide Symposium will be held in Van-Swieten conference\
+    \ Location\nThe 13th Austrian Peptide Symposium will be held in Van-Swieten conference\
     \ hall, Van Swieten-Gasse 1a, 1090 Vienna.\n\n![Van Swieten Hall Map](/assets/images/vsplan.gif)\n\
     \n![Van Swieten Hall Picture](/assets/images/vspic.jpg)\n\n\n### Further information\n\
     The meeting will be held under the auspices of the European Peptide Society (EPS).\
@@ -84,38 +84,14 @@ page:
     \ meeting via the EPS newsletter archive.\n\nDownload a report about [Peptide\
     \ Science in Austria](https://www.meduniwien.ac.at/pharmakologie/ms/Peptide%20Science%20in%20Austria.pdf).\n\
     \n![EPS Logo](https://www.meduniwien.ac.at/pharmakologie/ms/epslogo.gif)\n"
-  main: '# 12th Austrian Peptide Symposium
-
-
-    Date: 5th of December, 2023
-
-
-    Location: Vienna, Austria
-
-
-    Welcome to the 12th Austrian Peptide Symposium, organized by the Austrian Peptide
-    Community under the auspices of the European Peptide Society. Join us for a day
-    of inspiring talks and presentations.
-
-    '
+  main: "# 13th Austrian Peptide Symposium\n\nDate: 5th of December, 2024\n\nLocation:\
+    \ Vienna, Austria\n\nDetails and Speakers for the 13th Austrian Peptide Symposium\
+    \ will be announced soon! \nThis event is organized by the Austrian Peptide Community\
+    \ under the auspices of the European Peptide Society. Join us for a day of inspiring\
+    \ presentations and networking.\n"
 speakers:
-- affiliation: University of Cologne, Germany
-  name: Ines Neundorf
-  photo: neundorf.jpg
-- affiliation: University of Graz, Austria
-  name: Nermina Malanovic
-  photo: malanovic.jpg
-- affiliation: University of Rijeka, Croatia
-  name: "Daniela Kalafatovi\u0107"
-  photo: kalafatovic.jpg
-- affiliation: Indian Institute of Technology, India
-  name: Arun Shukla
-  photo: shukla.jpg
-- affiliation: University of Nottingham, UK
-  name: Nicholas Mitchell
-  photo: mitchell.png
-- affiliation: Kyoto University, Japan
-  name: Shiroh Futaki
+- affiliation: ''
+  name: t.b.d.
   photo: atpsLogo.png
 sponsors:
 - logo: CEM_small.jpg
