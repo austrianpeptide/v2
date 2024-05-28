@@ -91,8 +91,14 @@ page:
     \ under the auspices of the European Peptide Society. Join us for a day of inspiring\
     \ presentations and networking.\n"
 speakers:
-- affiliation: Medical University of Vienna
+- affiliation: Medical University of Vienna (Austria)
   name: Sarah Melzer
+  photo: atpsLogo.png
+- affiliation: Universtiy of Marburg (Germany)
+  name: Armin Geyer
+  photo: atpsLogo.png
+- affiliation: University College Dublin (Ireland)
+  name: Marina Rubini
   photo: atpsLogo.png
 sponsors:
 - logo: CEM_small.jpg
