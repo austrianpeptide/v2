@@ -93,7 +93,7 @@ page:
 speakers:
 - affiliation: Medical University of Vienna (Austria)
   name: Sarah Melzer
-  photo: Sarah_Melzer_MedUni_Wien.png
+  photo: Sarah_Melzer.png
 - affiliation: Universtiy of Marburg (Germany)
   name: Armin Geyer
   photo: atpsLogo.png
@@ -105,7 +105,7 @@ sponsors:
   name: Bachem
 - logo: Thermo_Fisher_Scientific.jpg
   name: ThermoFisher
-- logo: CEM_small.jpg
+- logo: Axel_Semrau.jpg
   name: Axel Semrau
 - logo: KNAUER-LOGO-2022_RGB-Blue.svg.png
   name: Knauer
@@ -115,8 +115,6 @@ sponsors:
   name: Almac
 - logo: biotage.jpg
   name: Biotage
-- logo: maglab.png
-  name: MagLab
 - logo: muw_engl.png
   name: Medical University of Vienna
 - logo: epslogo.gif
