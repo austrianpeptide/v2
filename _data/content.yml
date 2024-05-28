@@ -93,7 +93,7 @@ page:
 speakers:
 - affiliation: Medical University of Vienna (Austria)
   name: Sarah Melzer
-  photo: atpsLogo.png
+  photo: Sarah_Melzer_MedUni_Wien.png
 - affiliation: Universtiy of Marburg (Germany)
   name: Armin Geyer
   photo: atpsLogo.png
@@ -115,7 +115,7 @@ sponsors:
   name: Rieger
 - logo: biotage.jpg
   name: Biotage
-- logo: ThermoFisher_not_official.png
+- logo: Report_AtPS2011-2017.pdf
   name: ThermoFisher
 - logo: maglab.png
   name: MagLab
