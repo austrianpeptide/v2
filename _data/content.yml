@@ -101,22 +101,20 @@ speakers:
   name: Marina Rubini
   photo: atpsLogo.png
 sponsors:
-- logo: CEM_small.jpg
-  name: CEM
 - logo: bachem.png
   name: Bachem
+- logo: Thermo_Fisher_Scientific.jpg
+  name: ThermoFisher
+- logo: CEM_small.jpg
+  name: Axel Semrau
+- logo: KNAUER-LOGO-2022_RGB-Blue.svg.png
+  name: Knauer
 - logo: GSLogo-400x200px-01.jpg
   name: GenScript
-- logo: gpt.png
-  name: Gyros Proten Technologies
 - logo: almac.png
   name: Almac
-- logo: rieger.jpg
-  name: Rieger
 - logo: biotage.jpg
   name: Biotage
-- logo: Report_AtPS2011-2017.pdf
-  name: ThermoFisher
 - logo: maglab.png
   name: MagLab
 - logo: muw_engl.png
