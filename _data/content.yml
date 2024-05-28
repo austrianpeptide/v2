@@ -91,8 +91,8 @@ page:
     \ under the auspices of the European Peptide Society. Join us for a day of inspiring\
     \ presentations and networking.\n"
 speakers:
-- affiliation: ''
-  name: t.b.d.
+- affiliation: Medical University of Vienna
+  name: Sarah Melzer
   photo: atpsLogo.png
 sponsors:
 - logo: CEM_small.jpg
