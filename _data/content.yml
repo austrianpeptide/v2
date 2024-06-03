@@ -101,6 +101,12 @@ speakers:
 - affiliation: University College Dublin (Ireland)
   name: Marina Rubini
   photo: atpsLogo.png
+- affiliation: University of Copenhagen (Denmark)
+  name: Alexander Hauser
+  photo: atpsLogo.png
+- affiliation: University of Tokyo (Japan)
+  name: Hiroaki Suga
+  photo: atpsLogo.png
 sponsors:
 - logo: bachem.png
   name: Bachem
