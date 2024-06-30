@@ -6,7 +6,17 @@ layout: conference
 {% capture container_registration %}
 <!-- MAIN SECTION -->
 ## Registration
-Registration is now closed.
+{% if site.data.page.registration == 'open' %}
+  Ready to join us at the symposium? Click the button below to  register:
+
+  [Register Now](https://myconference.dev/atps_register_with_abstract.html)
+{% elsif site.data.page.registration == 'no_abstract' %}
+  Ready to join us at the symposium? Click the button below to  register:
+
+  [Register Now](https://myconference.dev/atps_register.html)
+{% else %}
+  <div>Registration is closed</div>
+{% endif %}
 <!-- END MAIN SECTION -->
 {% endcapture %}
 
