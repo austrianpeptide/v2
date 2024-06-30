@@ -91,7 +91,7 @@ page:
     \ will be announced soon! \nThis event is organized by the Austrian Peptide Community\
     \ under the auspices of the European Peptide Society. Join us for a day of inspiring\
     \ presentations and networking.\n"
-  registration: open
+  registration: no_abstract
 speakers:
 - affiliation: Medical University of Vienna (Austria)
   name: Sarah Melzer
