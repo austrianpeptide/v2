@@ -3,24 +3,6 @@ title: Austrian Peptide Symposium
 layout: conference
 ---
 
-{% capture container_registration %}
-<!-- MAIN SECTION -->
-## Registration
-{% if site.data.page.registration == 'open' %}
-  Ready to join us at the symposium? Click the button below to  register:
-
-  [Register Now](https://myconference.dev/atps_register_with_abstract.html)
-{% elsif site.data.page.registration == 'no_abstract' %}
-  Ready to join us at the symposium? Click the button below to  register:
-
-  [Register Now](https://myconference.dev/atps_register.html)
-{% else %}
-  <div>Registration is closed</div>
-{% endif %}
-<!-- END MAIN SECTION -->
-{% endcapture %}
-
-
 <div class="container container-main" id="home">
   {{ site.data.content.page.main | markdownify }}
 </div>
@@ -39,7 +21,22 @@ layout: conference
 </div>
 
 <div class="container container-registration" id="registration">
-  {{ container_registration | markdownify }}
+  <h2>Registration</h2>
+  {% if site.data.page.registration == 'open' %}
+    <div>
+      Ready to join us at the symposium? Click the button below to register:
+    </div>
+
+    <a href="https://myconference.dev/atps_register_with_abstract.html">Register Now</a>
+  {% elsif site.data.page.registration == 'no_abstract' %}
+    <div>
+      Ready to join us at the symposium? Click the button below to register:
+    </div>
+
+    <a href="https://myconference.dev/atps_register.html">Register Now</a>
+  {% else %}
+    <div>Registration is closed</div>
+  {% endif %}
 </div>
 
 <div class="container container-sponsors">
