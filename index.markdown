@@ -22,20 +22,20 @@ layout: conference
 
 <div class="container container-registration" id="registration">
   <h2>Registration</h2>
-  {% if site.data.page.registration == 'open' %}
+  {% if site.data.content.page.registration == 'open' %}
     <div>
       Ready to join us at the symposium? Click the button below to register:
     </div>
 
     <a href="https://myconference.dev/atps_register_with_abstract.html">Register Now</a>
-  {% elsif site.data.page.registration == 'no_abstract' %}
+  {% elsif site.data.content.page.registration == 'no_abstract' %}
     <div>
       Ready to join us at the symposium? Click the button below to register:
     </div>
 
     <a href="https://myconference.dev/atps_register.html">Register Now</a>
   {% else %}
-    <div>Registration is closed</div>
+    <div>Registration is closed.</div>
   {% endif %}
 </div>
 
