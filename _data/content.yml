@@ -108,6 +108,9 @@ speakers:
 - affiliation: University of Tokyo (Japan)
   name: Hiroaki Suga
   photo: Hiroaki-SUGA.jpg
+- affiliation: CEA, Paris-Saclay University (France)
+  name: Nicolas Gilles
+  photo: logo1.png
 sponsors:
 - logo: bachem.png
   name: Bachem
