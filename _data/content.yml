@@ -64,7 +64,7 @@ page:
 
     '
   information: "## Information\n### Abstract submission\nAbstract submission is now\
-    \ open [[Click Here](https://myconference.dev/atps_register_with_abstract.html)]!\
+    \ closed.  [[Click Here](https://myconference.dev/atps_register_with_abstract.html)]!\
     \ \nAfter succesful submission, you will be redirected to the online payment system.\n\
     To be considered for an oral presentation you must submit your abstract before\
     \ November 5th, 2024.\n\n\n### Registration information\nRegistration is now open\
@@ -100,7 +100,7 @@ page:
     \ Peptide Symposium will be announced soon! \nThis event is organized by the Austrian\
     \ Peptide Community under the auspices of the European Peptide Society. Join us\
     \ for a day of inspiring presentations and networking.\n"
-  registration: open
+  registration: no_abstract
 speakers:
 - affiliation: Medical University of Vienna (Austria)
   name: Sarah Melzer
