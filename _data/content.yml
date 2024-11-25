@@ -129,11 +129,13 @@ sponsors:
   name: GenScript
 - logo: almac.png
   name: Almac
-- logo: CEM_small.jpg
-  name: CEM
 - logo: biotage.jpg
   name: Biotage
+- logo: CEM_small.jpg
+  name: CEM
 - logo: muw_engl.png
   name: Medical University of Vienna
 - logo: epslogo.gif
   name: European Peptide Society
+- logo: Axel_Semrau.jpg
+  name: SolidScience
