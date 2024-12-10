@@ -52,6 +52,21 @@ award_winners:
   winner_name: Nina Hartrampf
   winner_photo: NinaHartrampf_web_2.jpg
   year: 2021
+- affiliation: Radboud University in Nijmegen
+  description: Kevin Neumann is an Assistant Professor of Chemistry at Radboud University
+    in Nijmegen, the Netherlands. After obtaining his MSc degree in Stuttgart, Germany,
+    in 2015, he joined the group of Prof. Mark Bradley for his PhD studies at the
+    University of Edinburgh, Scotland. From 2018 to 2021, he worked as a postdoctoral
+    fellow in the group of Prof. Jeffrey Bode at ETH Zurich, Switzerland, focusing
+    on chemical protein synthesis. Since 2021, he has been an Assistant Professor
+    in Nijmegen, leading an interdisciplinary group that works at the cross-section
+    of organic chemistry, chemical biology, and (bio)macromolecular chemistry. His
+    group focuses on developing new chemoselective click strategies for the precision
+    synthesis of therapeutically active biomolecules, including proteins and cyclic
+    peptides.
+  winner_name: Kevin Neumann
+  winner_photo: neumann_small.jpg
+  year: 2024
 page:
   contact: '## Contact
 
