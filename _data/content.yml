@@ -117,21 +117,18 @@ speakers:
 - affiliation: Technical Univrsity of Munich (Germany)
   name: Antonella Di Pizio
   photo: Sarah_Melzer.png
-- affiliation: University of Marburg (Germany)
-  name: Armin Geyer
+- affiliation: University of Bergen (Norway)
+  name: Eivind Undheim
   photo: Geyer_mini.jpg
-- affiliation: University College Dublin (Ireland)
-  name: Marina Rubini
+- affiliation: "ETH Z\xFCrich (Switzerland)"
+  name: 'Nathalie Grob '
   photo: Marina_Rubini.jpg
-- affiliation: University of Copenhagen (Denmark)
-  name: Alexander Hauser
-  photo: Alexander_Hauser.jpg
-- affiliation: University of Tokyo (Japan)
-  name: Hiroaki Suga
-  photo: Hiroaki-SUGA.jpg
-- affiliation: CEA, Paris-Saclay University (France)
-  name: Nicolas Gilles
-  photo: NicolasGilles.jpg
+- affiliation: ''
+  name: tbd
+  photo: muw_engl.png
+- affiliation: ''
+  name: tbd
+  photo: muw_engl.png
 sponsors:
 - logo: bachem.png
   name: Bachem
