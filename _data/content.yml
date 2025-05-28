@@ -78,12 +78,11 @@ page:
     Tel.: +43-(0)1-40160-31390, Email: christian.w.gruber@meduniwien.ac.at
 
     '
-  information: "## Information\n### Abstract submission\nAbstract submission is now\
-    \ closed, but you may still register and pay online (see below).\nFor late abstract\
-    \ submission please contact the organizers.\n\nTo download the abstract booklet\
-    \ [Click Here](/uploads/abstracts2024.pdf)!\n\n\n### Registration information\n\
-    Registration is now closed!\nOutstanding registration fees may be paid by credit\
-    \ card via the [online payment system](https://payment2.meduniwien.ac.at/peptidsymposium/).\n\
+  information: "## Information\n### Abstract submission\nAbstract submission is currently\
+    \ closed, but will open in September.\nFor any enquiries please contact the organizers.\n\
+    \nTo download the abstract booklet of 2024 [Click Here](/uploads/abstracts2024.pdf)!\n\
+    \n\n### Registration information\nRegistration is currently closed!\nRegistration\
+    \ fees may be paid by credit card via the [online payment system](https://payment2.meduniwien.ac.at/peptidsymposium/).\n\
     \nStudent/EPS member: \u20AC30\nRegular/Academic: \u20AC60\nIndustry (excl. Sponsors):\
     \ \u20AC200\n\n\n### Bachem Award\nThe Bachem AtPS Award is presented to early\
     \ career scientists (postdocs or junior group leaders) who have made outstanding\
@@ -92,30 +91,31 @@ page:
     \ graduation are eligible for nomination. The award is particularly aimed at scientists\
     \ having worked in or originating from the D/A/CH region (Germany, Austria, Switzerland).\
     \ The award is sponsored by the Bachem AG.\n\nNOTE: Bachem Award submission/nomination\
-    \ has now been closed!\n\n[Click Here For More Information](/uploads/Announcement_AtPSAward_2024.pdf)\n\
+    \ is currently closed!\n\n#[Click Here For More Information](/uploads/Announcement_AtPSAward_2024.pdf)\n\
     \n\n### Symposium topics\n- Peptide Chemistry and Synthesis\n- Peptide Drug Development\
     \ and Delivery\n- Peptide Biology\n- Peptide Pharmacology\n\n\n### Location\n\
-    The 13th Austrian Peptide Symposium will be held in Van-Swieten conference hall,\
+    The 14th Austrian Peptide Symposium will be held in Van-Swieten conference hall,\
     \ Van Swieten-Gasse 1a, 1090 Vienna.\n\n![Van Swieten Hall Map](/assets/images/vsplan.gif)\n\
     \n![Van Swieten Hall Picture](/assets/images/vspic.jpg)\n\n\n### Further information\n\
     The meeting will be held under the auspices of the European Peptide Society (EPS).\
     \ To be become a member of the EPS (free-of-charge), please [click here](https://www.eurpepsoc.com/benefits-of-membership/).\n\
     \nDownload the reports from the [2011-2017](/uploads/Report_AtPS2011-2017.pdf)\
     \ meetings.\n\nDownload the reports from the [2021](https://www.eurpepsoc.com/wp-content/uploads/2022/08/63rd-EPS-Newsletter.pdf),\
-    \ [2022](https://www.eurpepsoc.com/wp-content/uploads/2023/06/64th-EPS-Newsletter.pdf)\
-    \ and [2023](https://www.eurpepsoc.com/a-report-on-the-12th-austrian-peptide-symposium/)\
+    \ [2022](https://www.eurpepsoc.com/wp-content/uploads/2023/06/64th-EPS-Newsletter.pdf),\
+    \ [2023](https://www.eurpepsoc.com/a-report-on-the-12th-austrian-peptide-symposium/)\
+    \ and [2024](https://www.eurpepsoc.com/a-report-on-the-13th-austrian-peptide-symposium/)\
     \ meetings via the EPS newsletter archive.\n\nDownload a report about [Peptide\
     \ Science in Austria](https://www.meduniwien.ac.at/pharmakologie/ms/Peptide%20Science%20in%20Austria.pdf).\n\
     \n![EPS logo](https://austrianpeptides.org/uploads/epslogo.gif)\n\n"
-  main: "# 13th Austrian Peptide Symposium\n\nDate: 5th of December, 2024\n\nLocation:\
-    \ Vienna, Austria\n\nFurther details and preliminary program for the 13th Austrian\
+  main: "# 14th Austrian Peptide Symposium\n\nDate: 4th of December, 2025\n\nLocation:\
+    \ Vienna, Austria\n\nFurther details and preliminary program for the 14th Austrian\
     \ Peptide Symposium will be announced soon! \nThis event is organized by the Austrian\
     \ Peptide Community under the auspices of the European Peptide Society. Join us\
     \ for a day of inspiring presentations and networking.\n"
   registration: closed
 speakers:
-- affiliation: Medical University of Vienna (Austria)
-  name: Sarah Melzer
+- affiliation: Technical Univrsity of Munich (Germany)
+  name: Antonella Di Pizio
   photo: Sarah_Melzer.png
 - affiliation: University of Marburg (Germany)
   name: Armin Geyer
