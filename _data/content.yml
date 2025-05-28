@@ -126,29 +126,10 @@ speakers:
 - affiliation: ''
   name: tbd
   photo: muw_engl.png
-- affiliation: ''
-  name: tbd
-  photo: muw_engl.png
 sponsors:
 - logo: bachem.png
   name: Bachem
-- logo: Thermo_Fisher_Scientific.jpg
-  name: ThermoFisher
-- logo: Axel_Semrau.jpg
-  name: Axel Semrau
-- logo: KNAUER.png
-  name: Knauer
-- logo: GSLogo-400x200px-01.jpg
-  name: GenScript
-- logo: almac.png
-  name: Almac
-- logo: biotage.jpg
-  name: Biotage
-- logo: CEM_small.jpg
-  name: CEM
 - logo: muw_engl.png
   name: Medical University of Vienna
 - logo: epslogo.gif
   name: European Peptide Society
-- logo: SolidScience.png
-  name: SolidScience
