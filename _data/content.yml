@@ -123,8 +123,8 @@ speakers:
 - affiliation: "ETH Z\xFCrich (Switzerland)"
   name: 'Nathalie Grob '
   photo: Nathalie_Grob.jpg
-- affiliation: ''
-  name: tbd
+- affiliation: Institute for Science and Technology (Austria)
+  name: Florian Praetorius
   photo: muw_engl.png
 sponsors:
 - logo: bachem.png
