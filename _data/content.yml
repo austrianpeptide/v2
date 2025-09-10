@@ -114,7 +114,7 @@ page:
     \ for a day of inspiring presentations and networking.\n"
   registration: open
 speakers:
-- affiliation: Technical Univrsity of Munich (Germany)
+- affiliation: Technical University of Munich (Germany)
   name: Antonella Di Pizio
   photo: Di_Pizzio.jpg
 - affiliation: University of Bergen (Norway)
@@ -126,7 +126,7 @@ speakers:
 - affiliation: Institute for Science and Technology (Austria)
   name: Florian Praetorius
   photo: Florian_Praetorius.png
-- affiliation: King's College Londong (UK)
+- affiliation: King's College London (UK)
   name: Andre Cobb
   photo: Andre_Cobb.jpeg
 sponsors:
