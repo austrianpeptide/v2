@@ -27,7 +27,7 @@ layout: conference
       Ready to join us at the symposium? Click the button below to register:
     </div>
 
-    <a href="https://myconference.dev/atps_register_with_abstract.html">Register Now</a>
+    <a href="https://physiologie-pharmakologie.meduniwien.ac.at/ueber-uns/events/14th-austrian-peptide-symposium/atps-registration/">Register Now</a>
   {% elsif site.data.content.page.registration == 'no_abstract' %}
     <div>
       Ready to join us at the symposium? Click the button below to register:
